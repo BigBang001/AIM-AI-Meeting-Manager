@@ -144,7 +144,6 @@ aim-ai-meeting-manager/
 ├─ main.py             # Flask server
 ├─ tests/
 │  ├─ test_context_manager.py  # Unit tests for context logic
-├─ README.md
 ├─ requirements.txt
 ```
 
